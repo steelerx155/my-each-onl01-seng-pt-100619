@@ -4,8 +4,6 @@ days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
   yield days[i] 
   i + i = 1
  end
-  
-  
-  
+  days 
   # code here
 end
