@@ -1,3 +1,9 @@
-def my_each # put argument(s) here
+def my_each (days)# put argument(s) here
+days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+  
+  
+  
+  
+  
   # code here
 end
