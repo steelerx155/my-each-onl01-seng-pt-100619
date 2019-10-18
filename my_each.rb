@@ -3,7 +3,8 @@ days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
   while i < days.length
   yield days[i] 
   i + i = 1
-  
+ end
+end 
   
   
   
